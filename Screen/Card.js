@@ -32,6 +32,7 @@ function Card() {
                 }}>
                     <Image source={Facebook} style={styles.Facebook}></Image>
                     <Text>https://www.facebook.com/</Text>
+                    
                 </View>
             </View>
 
